@@ -1,0 +1,11 @@
+*.csv
+*.parquet
+*.json
+
+.env
+kaggle.json
+google_service_account.json
+
+__pycache__/
+venv/
+.ipynb_checkpoints/
